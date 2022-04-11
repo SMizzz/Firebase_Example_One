@@ -39,6 +39,9 @@
                                                     <state key="normal" title="작성하기">
                                                         <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                     </state>
+                                                    <connections>
+                                                        <action selector="composeBtnTapped:" destination="Bdc-f2-CuE" eventType="touchUpInside" id="8am-D6-Xpy"/>
+                                                    </connections>
                                                 </button>
                                             </subviews>
                                             <constraints>
